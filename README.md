@@ -3,6 +3,11 @@ A simple game I made to get into Augmented Reality using Unity and Vuforia. Avai
 
 ![In-game screenshot](https://raw.githubusercontent.com/abdullahibneat/SafariAnimalsAR/master/screenshot.png)
 
+## Acknowledgements
+Matthew Hallberg ([YouTube channel](https://www.youtube.com/channel/UClm2DY6pj3ygKoKhEVr7KFw)) for the tutorials on how to use Vuforia.
+
+Inition ([@Inition](https://twitter.com/Inition)) for the insights they gave me on 3D animation.
+
 ## Marker
 By default, the game uses the following marker:
 
