@@ -11,7 +11,7 @@ Inition ([@Inition](https://twitter.com/Inition)) for the insights they gave me 
 ## Marker
 By default, the game uses the following marker:
 
-![AR marker](https://raw.githubusercontent.com/abdullahibneat/abdullahibneat.github.io/master/assets/images/AR.jpg)
+![AR marker](https://i.imgur.com/Wp2F62P.png)
 
 This can be changed by following the [instructions below](https://github.com/abdullahibneat/SafariAnimalsAR#Change-the-AR-marker).
 
